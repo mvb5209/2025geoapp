@@ -1,0 +1,16 @@
+# Ignore build artifacts
+target/
+*.tar.gz
+
+# Ignore logs and temp files
+nohup.out
+*.log
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Old or unneeded files
+trash/
+
